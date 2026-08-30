@@ -17,6 +17,12 @@
         "key": "roohhacks",
         "expirydate": "1-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2dc5e0c41cac3c7f",
+        "key": "roohidress",
+        "expirydate": "1-10-2026",
+        "Allowoffline": false
     }
     
 ]
